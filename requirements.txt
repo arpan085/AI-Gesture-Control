@@ -1,0 +1,9 @@
+opencv-python>=4.10.0
+mediapipe>=0.10.14
+pyautogui>=0.9.54
+numpy>=1.26.4
+screen-brightness-control>=0.23.0
+pycaw>=20240210; platform_system == "Windows"
+comtypes>=1.4.5; platform_system == "Windows"
+Pillow>=10.4.0
+customtkinter>=5.2.2
